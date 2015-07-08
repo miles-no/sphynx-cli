@@ -6,6 +6,7 @@
   "author": "Thomas Pedersen, Miles AS",
   "license": "MIT",
   "dependencies": {
+    "deasync": "^0.1.0",
     "eazy-logger": "^2.1.2",
     "es6-template-strings": "^1.0.0",
     "ip": "^0.3.3",
