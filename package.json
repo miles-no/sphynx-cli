@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "bin": {
-    "sphynx": "bin/sphynx"
-  },
   "author": "Thomas Pedersen, Miles AS",
   "license": "MIT",
   "dependencies": {
