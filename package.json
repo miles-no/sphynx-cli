@@ -1,0 +1,21 @@
+{
+  "name": "sphynx-cli",
+  "version": "0.1.0",
+  "description": "",
+  "bin": {
+    "sphynx": "bin/sphynx"
+  },
+  "author": "Thomas Pedersen, Miles AS",
+  "license": "MIT",
+  "dependencies": {
+    "eazy-logger": "^2.1.2",
+    "es6-template-strings": "^1.0.0",
+    "ip": "^0.3.3",
+    "multiline": "^1.0.2",
+    "object-assign": "^3.0.0",
+    "portscanner": "^1.0.0",
+    "prompt": "^0.2.14",
+    "superagent": "^1.2.0",
+    "superagent-as-promised": "^3.1.1"
+  }
+}
